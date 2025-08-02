@@ -1,0 +1,35 @@
+
+You're a data scientist working for an online education platform. The company wants to predict:
+
+Whether a student will purchase a course (Classification).
+How much time (in minutes) a student will spend on the platform next week (Regression).
+You’ll use Supervised Learning Algorithms to solve both problems.
+
+
+🔵 Classification Problem
+Target: Purchased (Y/N)
+Algorithms you can apply:
+
+Logistic Regression
+Decision Tree Classifier
+Random Forest Classifier
+Support Vector Machine (SVM)
+Naive Bayes
+K-Nearest Neighbors (KNN)
+Gradient Boosting / XGBoost
+Neural Network (MLPClassifier)
+
+
+
+
+🟢 Regression Problem
+Target: Time Next Week (min)
+Algorithms you can apply:
+
+Linear Regression
+Decision Tree Regressor
+Random Forest Regressor
+Support Vector Regressor (SVR)
+KNN Regressor
+Gradient Boosting Regressor / XGBoost Regressor
+Neural Network (MLPRegressor)
